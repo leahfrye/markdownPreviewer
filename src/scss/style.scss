@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i');
+$gray-01: #303030;
+$gray-02: #333333;
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: $gray-02;
+}
+.wrapper {
+   h2 {
+     margin-bottom: 20px;
+     font-weight: 300;
+   }
+   .row {
+     max-width: 800px;
+     margin: 0 auto;
+
+     .left {
+       float: left;
+     }
+     .right {
+       float: right;
+     }
+      textarea {
+       width: 350px;
+       height: 500px;
+       margin-bottom: 20px;
+     }
+  }
+}
