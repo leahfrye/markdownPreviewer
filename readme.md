@@ -1,25 +1,25 @@
-Markdown Previewer
+## Markdown Previewer
 
-Leah Frye
+***Leah Frye***
 
-# Start
+### Start
 
-npm install
++ npm install
 
-# Dev server
+### Dev server
 
-webpack-dev-server
++ webpack-dev-server
 
-# Compile
+### Compile
 
-webpack
++ webpack
 
-# Tools used
+### Tools used
 
-[node]: https://nodejs.org/
-[atom]: https://atom.io/
-[webpack]: https://webpack.github.io/
-[react]: https://facebook.github.io/react/
-[bootstrap]: http://getbootstrap.com/
-[sass]: http://sass-lang.com/
-[marked]: https://github.com/chjj/marked
++ ***node***: https://nodejs.org/
++ ***atom***: https://atom.io/
++ ***webpack***: https://webpack.github.io/
++ ***react***: https://facebook.github.io/react/
++ ***bootstrap***: http://getbootstrap.com/
++ ***sass***: http://sass-lang.com/
++ ***marked***: https://github.com/chjj/marked
