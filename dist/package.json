@@ -1,0 +1,11 @@
+{
+ "name": "markdownPreviewer",
+ "version": "1.0.0",
+ "description": "markdownPreviewer",
+ "author": "leah frye",
+ "private": true,
+ "scripts": {
+   "start": "node server.js",
+   "postinstall": "npm install express"
+ }
+}

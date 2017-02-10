@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i);body {
+  font-family: 'Open Sans', sans-serif;
+  color: #333333; }
+
+.wrapper h2 {
+  margin-bottom: 20px;
+  font-weight: 300; }
+
+.wrapper .row {
+  max-width: 800px;
+  margin: 0 auto; }
+  .wrapper .row .left {
+    float: left; }
+  .wrapper .row .right {
+    float: right; }
+  .wrapper .row textarea {
+    width: 350px;
+    height: 500px;
+    margin-bottom: 20px; }
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZS5jc3MiLCJzb3VyY2VSb290IjoiIn0=*/

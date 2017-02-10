@@ -8,7 +8,7 @@
 
 ### Dev server
 
-+ webpack-dev-server
++ npm run server
 
 ### Compile
 
